@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UniPlanner</string>
+    <string name="app_logo" />
+    <string name="default_web_client_id" />
+    <string name="logo_desc" />
+    <string name="nav_header_desc" />
+
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+
+        <string name="add_task_desc">Add Task</string>
+
+    <string-array name="priority_array">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+</resources>

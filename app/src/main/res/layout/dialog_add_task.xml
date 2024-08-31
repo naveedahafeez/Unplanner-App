@@ -1,0 +1,48 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/light_grey">
+
+    <EditText
+        android:id="@+id/editTextTaskTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Task Title"
+        android:inputType="text"
+        android:padding="12dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:fontFamily="@font/urbanist_reg"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginBottom="12dp" />
+
+    <EditText
+        android:id="@+id/editTextTaskDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Task Details"
+        android:inputType="textMultiLine"
+        android:minHeight="100dp"
+        android:padding="12dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:fontFamily="@font/urbanist_reg"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:id="@+id/textViewDueDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Select Due Date"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:padding="12dp"
+        android:background="@drawable/edit_text_background"
+        android:gravity="center"
+        android:fontFamily="@font/bold"
+        android:layout_marginTop="8dp" />
+</LinearLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111061473041",
+    "project_id": "uniplanner-c948f",
+    "storage_bucket": "uniplanner-c948f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111061473041:android:5cc39fb540ea04edd85eb0",
+        "android_client_info": {
+          "package_name": "com.example.uniplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPBKhC-ZzGM1fT_VMa5HSxDu2bMJyDEaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

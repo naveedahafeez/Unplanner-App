@@ -1,0 +1,7 @@
+<resources>
+    <!-- Existing styles -->
+    <style name="CustomFABStyle" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="backgroundTint">@color/blue_500</item>
+        <item name="borderWidth">0dp</item> <!-- Optional: Remove any border -->
+    </style>
+</resources>

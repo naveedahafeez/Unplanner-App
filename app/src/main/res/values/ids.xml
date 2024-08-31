@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="taskTitle" type="id" />
+    <item name="taskDetails" type="id" />
+    <item name="btnDelete" type="id" />
+    <item name="nav_view" type="id" />
+    <item name="deleteTask" type="id" />
+    <item name="textViewDueDate" type="id" />
+    <item name="editTextTaskDetails" type="id" />
+    <item name="editTextTaskTitle" type="id" />
+    <item name="taskDueDate" type="id" />
+    <item name="fab_add_task" type="id" />
+    <item name="drawer_layout" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="recyclerViewTasks" type="id" />
+</resources>
